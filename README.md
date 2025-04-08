@@ -26,6 +26,7 @@ cd glpi-postgres
 ## 🗂️ Structure du projet
 
 ---
+````bash
 
 glpi-postgres/
 ├── Dockerfile                # Configuration de l'image PHP + Apache
@@ -34,9 +35,9 @@ glpi-postgres/
 ├── glpi/                     # Dossier GLPI monté dans le conteneur
 ├── .gitignore
 └── README.md
-
+````
 ---
 
-##📚 À propos
+## 📚 À propos
 Ce projet a été réalisé pour apprendre Docker, la configuration de conteneurs PHP/MySQL, et déployer une application complète comme GLPI.
 Il peut servir de base à des environnements de test ou de développement.
