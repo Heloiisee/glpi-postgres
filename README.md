@@ -21,7 +21,10 @@ Ce projet propose une installation complète de **GLPI** (Gestion Libre de Parc 
 git clone https://github.com/tonpseudo/glpi-postgres.git
 cd glpi-postgres
 
-🗂️ Structure du projet
+## 🗂️ Structure du projet
+
+---
+
 glpi-postgres/
 ├── Dockerfile                # Configuration de l'image PHP + Apache
 ├── docker-compose.yml        # Lancement des conteneurs
@@ -30,6 +33,8 @@ glpi-postgres/
 ├── .gitignore
 └── README.md
 
-📚 À propos
+---
+
+##📚 À propos
 Ce projet a été réalisé pour apprendre Docker, la configuration de conteneurs PHP/MySQL, et déployer une application complète comme GLPI.
 Il peut servir de base à des environnements de test ou de développement.
