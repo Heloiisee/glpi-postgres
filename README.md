@@ -21,6 +21,8 @@ Ce projet propose une installation complète de **GLPI** (Gestion Libre de Parc 
 git clone https://github.com/tonpseudo/glpi-postgres.git
 cd glpi-postgres
 
+```
+
 ## 🗂️ Structure du projet
 
 ---
